@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This is a simple [Next.js](https://nextjs.org) todo list project [`todo-stripe-live`]([https://stripe-todo-ustacky-pv6p.vercel.app/]).
 
 ## Getting Started
 
