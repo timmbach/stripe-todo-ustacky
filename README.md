@@ -1,4 +1,4 @@
-This is a simple [Next.js](https://nextjs.org) todo list project [`todo-stripe-live`]([https://stripe-todo-ustacky-pv6p.vercel.app/]).
+This is a simple [Next.js](https://nextjs.org) todo list project [`todo-stripe-live`](https://stripe-todo-ustacky-pv6p.vercel.app/).
 
 ## Getting Started
 
