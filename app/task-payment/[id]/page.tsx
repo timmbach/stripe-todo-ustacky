@@ -46,7 +46,7 @@ export default function TaskPayment() {
   }, [id]);
 
   if (!task) {
-    return <p>Task not found</p>;
+    return <p>Task not found, yet.</p>;
   }
 
   return (
